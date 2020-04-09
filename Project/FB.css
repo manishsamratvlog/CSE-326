@@ -1,0 +1,48 @@
+body{
+    background:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.5)), url(main1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+h1{
+    margin-left: 30%;
+    margin-right: 30%;
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
+label{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 40px;
+    color: #000;
+    font-size: 30px;
+}
+.in:hover{
+    border-radius: 5px;
+    padding: 10px 2%;
+    color: red;
+    background-color: chartreuse;
+}
+input{
+    padding: 10px 2%;
+    border-radius: 3px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 50
+}
+textarea{
+    margin-left: 30%;
+}
+header{
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+    color: #000;
+    font-size: 30px;
+    border-radius: 20px;
+    background: #fff4;
+    padding: 20px;
+    margin-top: 15%;
+    margin-left: 17%;
+    margin-right: 17%;
+}
